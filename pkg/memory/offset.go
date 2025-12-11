@@ -139,7 +139,7 @@ func calculateOffsets(process *Process) Offset {
 		KeyBindingsOffset:           keyBindingsOffset,
 		KeyBindingsSkillsOffset:     keyBindingsSkillsOffset,
 		QuestInfo:                   questInfoOffset,
-		TZ:                          tzOffset,
+		TZ:                          tzOnline,
 		Quests:                      questDataOffset,
 		Ping:                        pingOffset,
 		LegacyGraphics:              legacyGfxOffset,
